@@ -9,7 +9,7 @@
 - 🎮 Passionate about **Game Development & AI Integrations**
 - 💡 Exploring **AI Agents & Automation**
 - 🚀 Actively contributing to **Open Source Projects**
-- 🏋️ I love **gaming & hitting the gym** to stay active!
+- 🏋️ I love **Gaming & Hitting The Gym & Traveling** to stay active!
 - 🌍 Always eager to learn & collaborate on new projects.
 
 ---
