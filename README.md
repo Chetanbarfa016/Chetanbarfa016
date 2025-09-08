@@ -5,7 +5,7 @@
 ### **👨‍💻 About Me**
 
 
-- 🔥 3+ years of experience as a **MERN Stack Developer** at **PNP Infotech**
+- 🔥 3+ years of experience as a **APP Developer** at **PNP Infotech**
 - 🎮 Passionate about **Game Development & AI Integrations**
 - 💡 Exploring **AI Agents & Automation**
 - 🚀 Actively contributing to **Open Source Projects**
