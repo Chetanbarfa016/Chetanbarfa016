@@ -1,4 +1,4 @@
-![footer](https://github.com/ps-19/ps-19/blob/master/PNG/footer.png)
+![footer](https://swapdigit.com/assets/images/service-single/8.png)
 
 # 🚀 Chetan Barfa | Full-Stack Developer
 
