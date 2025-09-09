@@ -2,7 +2,7 @@
 
 # 🚀 Chetan Barfa | Full-Stack & App Developer  
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 - 🔥 3+ years of experience as an **App Developer** at **PNP Infotech**  
 - 🎮 Passionate about **Game Development & AI Integrations**  
 - 🤖 Exploring **AI Agents & Automation Systems**  
