@@ -21,7 +21,7 @@
   <img src="/profile.gif" width="220" alt="Flutter Developer" style="border-radius:15px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">
   <div align="left" style="min-width:320px;font-size:16px;line-height:1.8;">
     <p><b>📧 Email:</b> <a href="mailto:ChetanBarfa16@gmail.com">ChetanBarfa16@gmail.com</a></p>
-    <p><b>🌍 Portfolio:</b> <a href="https://Chetantech.vercel.app/">chetantech.vercel.app</a></p>
+    <p><b>🌍 Portfolio:</b> <a href="https://id-preview--3309d837-b4a4-4543-93a2-106b57a9c57e.lovable.app/#">chetantech.vercel.app</a></p>
     <p><b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/Chetan-Barfa-431165229">Chetan Barfa</a></p>
      <p><b>📷 Instagram:</b> <a href="https://www.instagram.com/_ChetanBarfa/?hl=en">_chetanbarfa</a></p>
     <p><b>📱 Play Store:</b> Published 15+ Apps</p>
