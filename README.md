@@ -20,7 +20,7 @@
     <p><b>📧 Email:</b> <a href="mailto:ChetanBarfa16@gmail.com">ChetanBarfa16@gmail.com</a></p>
     <p><b>🌍 Portfolio:</b> <a href="https://Chetantech.vercel.app/">chetantech.vercel.app</a></p>
     <p><b>💼 LinkedIn:</b> <a href="https://www.linkedin.com/in/Chetan-Barfa-431165229">Chetan Barfa</a></p>
-    <p><b>📷 Instagram:</b> <a href="https://www.instagram.com/mr_Barfa001/?hl=en">mr_Barfa001</a></p>
+    <p><b>📷 Instagram:</b> <a href="https://www.instagram.com/_ChetanBarfa/?hl=en">mr_Barfa001</a></p>
   </div>
 </div>
 
