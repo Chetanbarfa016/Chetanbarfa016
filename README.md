@@ -94,11 +94,7 @@
 - Multimedia content management
 
 ---
-
----
-
-## 📊 GitHub Analytics
-
+## 📊 GitHub Stats & Contributions
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chetanpnp&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
@@ -107,15 +103,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Chetanpnp&theme=algolia&row=1&column=6" alt="trophies" />
 </div>
 
-<div align="center">
+<div align="center" style="display:flex;gap:20px;flex-wrap:wrap;justify-content:center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Chetanpnp&show_icons=true&theme=algolia&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanpnp&layout=compact&theme=algolia" height="170"/>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanpnp&theme=algolia" alt="streak stats"/>
-</div>
-
 
 ---
 
