@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>🚀 Chetan Barfa</h1>
-  <h2>Flutter Developer | Mobile App Specialist | AI Enthusiast</h2>
+  <h2>Flutter Mobile Developer | Android App Developer |  IOS App Developer</h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Flutter+%26+Mobile+App+Developer;3%2B+Years+at+PNP+Infotech;Real-time+Trading+Apps+Expert;AI+Integration+Specialist" alt="Typing SVG" />
 </div>
 
