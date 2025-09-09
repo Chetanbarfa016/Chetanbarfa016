@@ -1,6 +1,10 @@
 ![Header](https://swapdigit.com/assets/images/service-single/8.png)
 
-# 🚀 Chetan Barfa | Flutter & Mobile App Developer
+<div align="center">
+  <h1>🚀 Chetan Barfa</h1>
+  <h2>Flutter Developer | Mobile App Specialist | AI Enthusiast</h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Flutter+%26+Mobile+App+Developer;3%2B+Years+at+PNP+Infotech;Real-time+Trading+Apps+Expert;AI+Integration+Specialist" alt="Typing SVG" />
+</div>
 
 ## 👨‍💻 About Me
 - 🔥 **4+ years** of professional **Flutter & Mobile App Development** experience
