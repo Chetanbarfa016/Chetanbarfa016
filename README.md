@@ -81,6 +81,15 @@
   </div>
 </div>
 
+<div align="center" style="margin:30px 0;">
+  
+| 📱 **50+ Apps** | ⭐ **4.8/5 Rating** | 🚀 **15+ Live Apps** | 💼 **PNP Infotech** |
+|:---:|:---:|:---:|:---:|
+| Successfully Delivered | Average App Rating | Apps on Play Store | Senior Flutter Dev |
+
+</div>
+
+
 <div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;margin:30px 0;">
   <div style="text-align:center;min-width:150px;margin:10px;">
     <h3>📱 50+ Apps</h3>
