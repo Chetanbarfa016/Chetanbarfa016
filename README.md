@@ -81,6 +81,26 @@
   </div>
 </div>
 
+<div align="center" style="display:flex;justify-content:space-around;flex-wrap:wrap;margin:30px 0;">
+  <div style="text-align:center;min-width:150px;margin:10px;">
+    <h3>📱 50+ Apps</h3>
+    <p>Successfully Delivered</p>
+  </div>
+  <div style="text-align:center;min-width:150px;margin:10px;">
+    <h3>⭐ 4.8/5</h3>
+    <p>Average App Rating</p>
+  </div>
+  <div style="text-align:center;min-width:150px;margin:10px;">
+    <h3>🚀 15+ Live</h3>
+    <p>Apps on Play Store</p>
+  </div>
+  <div style="text-align:center;min-width:150px;margin:10px;">
+    <h3>💼 PNP Infotech</h3>
+    <p>Senior Flutter Dev</p>
+  </div>
+</div>
+
+
 ---
 
 ## 🎯 Specialized App Categories
