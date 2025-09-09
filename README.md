@@ -95,24 +95,27 @@
 
 ---
 
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chetanpnp&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Chetanpnp&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chetanpnp&theme=algolia&row=2&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</div>
-
-<div align="center" style="display:flex;gap:20px;flex-wrap:wrap;justify-content:center;margin:30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chetanpnp&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanpnp&layout=compact&theme=algolia&langs_count=8" height="200"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chetanpnp&theme=algolia&row=1&column=6" alt="trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanpnp&theme=algolia" alt="streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chetanpnp&show_icons=true&theme=algolia&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chetanpnp&layout=compact&theme=algolia" height="170"/>
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chetanpnp&theme=algolia" alt="streak stats"/>
+</div>
+
 
 ---
 
